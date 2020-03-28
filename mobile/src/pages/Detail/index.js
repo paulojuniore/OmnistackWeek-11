@@ -4,8 +4,6 @@ import * as MailComposer from 'expo-mail-composer';
 import { View, Text, Image, TouchableOpacity, Linking } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 
-import api from '../../services/api';
-
 import styles from './styles';
 import logoImg from '../../../assets/logo.png';
 
