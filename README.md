@@ -14,3 +14,7 @@ O sistema Be the hero tem a finalidade de unir pessoas que têm o interesse e co
 - Listar casos específicos de uma ONG
 - Listar todos os casos para um colaborador
 - Entrar em contato com uma ONG
+
+## IDE
+
+- [VScode](https://code.visualstudio.com/).
